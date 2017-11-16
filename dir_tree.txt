@@ -1,0 +1,21 @@
+Directory: $RECYCLE.BIN
+Directory: Boot
+Not Directory: bootmgr
+Not Directory: BOOTNXT
+Directory: cygwin64
+Directory: Documents and Settings
+Not Directory: hiberfil.sys
+Directory: Intel
+Not Directory: pagefile.sys
+Directory: PerfLogs
+Directory: Program Files
+Directory: Program Files (x86)
+Directory: ProgramData
+Directory: Python27
+Directory: Recovery
+Not Directory: Recovery.txt
+Not Directory: swapfile.sys
+Directory: System Volume Information
+Directory: UserGuidePDF
+Directory: Users
+Directory: Windows
